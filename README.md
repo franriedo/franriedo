@@ -10,4 +10,4 @@ Atualmente, sou **Tech Recruiter** no **[Méliuz](https://meliuz.gupy.io/)** e p
 
 [![Linkedin Badge](https://img.shields.io/badge/-Franciele%20Riedo-2030aa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francieleriedo/)](https://www.linkedin.com/in/francieleriedo/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-E4405F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francielesantossouza@gmail.com)](mailto:francielesantossouza@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@FrancieleRiedo-2030cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/FrancieleRiedo)](https://twitter.com/FrancieleRiedo)
+[![Twitter Badge](https://img.shields.io/badge/-@FrancieleRiedo-2040cc?style=flat-square&labelColor=2040cc&logo=twitter&logoColor=white&link=https://twitter.com/FrancieleRiedo)](https://twitter.com/FrancieleRiedo)
