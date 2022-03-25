@@ -6,6 +6,6 @@ Minha bagagem profissional reúne +13 anos na área de Recursos Humanos com ênf
 
 Atualmente, sou **Tech Recruiter** no **[Méliuz](https://meliuz.gupy.io/)** e posso te conectar a diversas oportunidades!
 
-**[Bora bater um papo?](https://www.linkedin.com/in/francieleriedo/)**
+**Bora bater um papo?**
 
 [![Linkedin Badge](https://img.shields.io/badge/-Franciele%20Riedo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francieleriedo/)](https://www.linkedin.com/in/francieleriedo/) 
