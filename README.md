@@ -7,3 +7,5 @@ Minha bagagem profissional reúne +13 anos na área de Recursos Humanos com ênf
 Atualmente, sou **Tech Recruiter** no **[Méliuz](https://meliuz.gupy.io/)** e posso te conectar a diversas oportunidades!
 
 **[Bora bater um papo?](https://www.linkedin.com/in/francieleriedo/)**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francieleriedo/)](https://www.linkedin.com/in/francieleriedo/) 
