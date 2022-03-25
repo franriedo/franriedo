@@ -8,4 +8,4 @@ Atualmente, sou **Tech Recruiter** no **[Méliuz](https://meliuz.gupy.io/)** e p
 
 **[Bora bater um papo?](https://www.linkedin.com/in/francieleriedo/)**
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francieleriedo/)](https://www.linkedin.com/in/francieleriedo/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Franciele%20Riedo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francieleriedo/)](https://www.linkedin.com/in/francieleriedo/) 
