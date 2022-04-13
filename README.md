@@ -4,7 +4,7 @@ Sou a Fran, uma pessoa apaixonada por psicologia, talentos, diversidade e tecnol
 
 Minha bagagem profissional reúne +13 anos na área de Recursos Humanos com ênfase em recrutamento e seleção. E a cada dia, tenho aprendido mais com as pessoas e com o universo de atração e seleção de pessoas.
 
-Atualmente, sou **Tech Recruiter** no **[Ifood](https://carreiras.ifood.com.br/)** e posso te conectar a diversas oportunidades!
+Atualmente, sou **Tech Recruiter** no **[iFood](https://carreiras.ifood.com.br/)** e posso te conectar a diversas oportunidades!
 
 **Bora bater um papo?**
 
