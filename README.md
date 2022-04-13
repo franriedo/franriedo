@@ -10,4 +10,4 @@ Atualmente, sou **Tech Recruiter** no **[iFood](https://carreiras.ifood.com.br/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Franciele%20Riedo-2030aa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francieleriedo/)](https://www.linkedin.com/in/francieleriedo/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-E4405F?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francielesantossouza@gmail.com)](mailto:francielesantossouza@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@FrancieleRiedo-6030cc?style=flat-square&labelColor=6030cc&logo=twitter&logoColor=white&link=https://twitter.com/FrancieleRiedo)](https://twitter.com/FrancieleRiedo)
+[![Twitter Badge](https://img.shields.io/badge/-@FrancieleRiedo-3498DB?style=flat-square&labelColor=3498DB&logo=twitter&logoColor=white&link=https://twitter.com/FrancieleRiedo)](https://twitter.com/FrancieleRiedo)
