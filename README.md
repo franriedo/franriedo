@@ -1,6 +1,6 @@
 # **Ei pessoal! Sejam bem vindxs!** <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-Sou a Fran, uma pessoa apaixonada por psicologia, diversidade e tecnologia! 🧠👩‍💻
+Sou a **Fran**, uma pessoa apaixonada por psicologia, diversidade e tecnologia! 🧠👩‍💻
 
 Minha bagagem profissional reúne +13 anos na área de Recursos Humanos com ênfase em recrutamento e seleção. E a cada dia, tenho aprendido mais com as pessoas e com o universo de atração e seleção de pessoas.
 
