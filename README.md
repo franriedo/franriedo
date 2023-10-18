@@ -1,4 +1,4 @@
-# **Ei pessoal! Sejam bem vindxs!** <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+# **Ei pessoal! Sejam bem vindos!** <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 Sou a **Fran**, uma pessoa apaixonada por psicologia, diversidade e tecnologia! 🧠👩‍💻
 
